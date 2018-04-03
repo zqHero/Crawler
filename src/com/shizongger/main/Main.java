@@ -4,6 +4,7 @@ import java.io.Console;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -34,22 +35,21 @@ public class Main {
 	                    .cookie("auth", "token")
 	                    .timeout(3000)
 	                    .get();
-
 	            
 	            //匹配正则表达式：
-	            Pattern pattern = Pattern.compile("\\d{11}");
+	            Pattern pattern = Pattern.compile("((13[0-9])|(15[1,\\D])|(18[0,0-9]))\\d{8}");
 	            Matcher matcher = pattern.matcher(doc.toString());
 
-	            ArrayList<String> ips = new ArrayList<String>();
+	            HashSet<String> ips = new HashSet<String>();
 	           
 	            if (!matcher.find()) {
 	            	 System.out.println("未查询到数据");
 				}else{
 					 while (matcher.find()) {
-			                System.out.println(matcher.group());
-			            }
-				}
-	            
+						ips.add(matcher.group());
+			         }
+					 System.out.println(ips.toString());
+				} 
 	        } catch (IOException e) {
 	        	System.out.println("-======发生异常====" + e.toString() );
 	        }
