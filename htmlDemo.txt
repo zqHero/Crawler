@@ -1,0 +1,432 @@
+<div class="wrap clear mt30">
+		<!--内容左边部分-->
+		
+		<!--/内容左边部分-->
+		<!--内容右边部分-->
+		
+			<!--论坛导航-->
+		
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>左侧导航栏</title>
+<div class="n_logo">
+	13390234521
+</div>
+
+<div class="clear">
+		<div class="fl w272">
+			<div class="n_logo">
+				<img src="/static/newedition/img/new/logo.png">
+			</div>
+		</div>
+		<div class="fr w823">
+			<!--新加导航-->
+			<div class="lt-r-nav">
+							<div class="n_logo">
+	13390234524
+</div>
+				<ul class="nav-yi">
+
+				
+					<li class="active list"><a href="/list/50-0-0-1.html">时政热点</a></li>
+					<li class="list"><a href="/list/98-0-0-1.html">财经金融</a></li>
+					<li class="list"><a href="/list/75-0-0-1.html">文化生活</a></li>
+					<li class=""><a href="/list/80-0-0-1.html">摄影</a></li>
+					<li class="list"><a href="/list/82-0-0-1.html">地方</a></li>
+					<li><a href="/list/538-0-0-1.html">无人机</a></li>
+					<li><a href="/list/50-224-0-1.html">新科技</a></li>
+					<li class="list">热专栏</li>
+					<!-- <li class="mobi">
+						移动版
+						<div class="mobi-er">
+							<i></i>
+							<ul>
+								<li>
+									<img src="/static/newedition/img/new/er1.png" />
+									<p>新华网思客微信</p>
+								</li>
+ 								<li>
+									<img src="/static/newedition/img/new/er2.png" />
+									<p>发展论坛官方微信</p>
+								</li>
+								<li>
+									<img src="/static/newedition/img/new/er3.png" />
+									<p>新华网影巢微信</p>
+								</li>
+							</ul>
+						</div>
+					</li> -->
+				</ul>
+				<ul class="nav-er">
+					<li class="active i1">
+						<i></i>
+						<a href="/list/50-0-0-1.html">发展论坛</a>
+						<span>|</span>
+						<a href="/list/50-388-0-1.html">热点论坛</a>
+						<span>|</span>
+						<a href="/list/50-135-0-1.html">深水论见</a>
+						<span>|</span>
+						<a href="/list/50-133-0-1.html">法治论坛</a>
+						<span>|</span>
+						<a href="/list/84-0-0-1.html">旗帜论坛</a>
+						<span>|</span>
+						<a href="/list/50-85-0-1.html">国际观察</a>
+						<span>|</span>
+						<a href="/list/50-92-0-1.html">军迷大营</a>
+					</li>
+					<li class="i2">
+						<i></i>
+						<a href="/list/98-0-0-1.html">互联网金融</a>
+						<span>|</span>
+						<a href="/list/98-323-0-1.html">谈股论金</a>
+						<span>|</span>
+						<a href="/list/98-561-0-1.html">E起理财</a>
+						<span>|</span>
+						<a href="/list/98-562-0-1.html">楼市观察</a>
+					</li>
+					<li class="i3">
+						<i></i>
+						<a href="/list/75-0-0-1.html">文化生活</a>
+						<span>|</span>
+						<a href="/list/75-145-0-1.html">健康养生</a>
+						<span>|</span>
+						<a href="/list/91-0-0-1.html">文化闲谈</a>
+						<span>|</span>
+						<a href="/list/83-0-0-1.html">网友俱乐部</a>
+						<span>|</span>
+						<a href="/list/75-605-0-1.html">当代文坛</a>
+						<span>|</span>
+						<a href="/list/93-0-0-1.html">体育论坛</a>
+					</li>
+					<li class="i4">
+						<i></i>
+						<a href="/list/80-0-0-1.html">摄影论坛</a>
+						<span>|</span>
+						<a href="/list/80-508-0-1.html">风光旅行</a>
+						<span>|</span>
+						<a href="/list/80-509-0-1.html">人像艺术</a>
+						<span>|</span>
+						<a href="/list/80-152-0-1.html">摄影杂谈</a>
+						<span>|</span>
+						<a href="/list/80-512-0-1.html">活动专区</a>
+						<span>|</span>
+						<a href="/view/oldphoto/list.html">新华老年</a>
+						<span>|</span>
+						<a href="/list/80-623-0-1.html">草原魅影</a>
+						<span>|</span>
+						<a href="/list/80-0-0-1.html">更多&gt;&gt; </a>
+					</li>
+					<li class="i6">
+						<i></i>
+						<a href="http://www.xinhuanet.com/forum/sqgj/xhdc.htm">新华调查</a>
+						<span>|</span>
+						<a href="http://www.xinhuanet.com/forum/sqgj/h5qyy.htm">创意产品</a>
+						<span>|</span>
+						<a href="http://www.xinhuanet.com/forum/sqgj/tuzhi.htm">时空图志</a>
+						<span>|</span>
+						<a href="http://www.xinhuanet.com/forum/sqgj/jrht.htm">议起来</a>
+						<span>|</span>
+						<a href="http://www.xinhuanet.com/forum/sqgj/tk.htm">图说</a>
+					</li>
+				</ul>
+			</div>
+			<!--/新加导航-->
+		</div>
+	</div>
+
+
+			<!--/论坛导航-->
+		<div style="padding:10px 0px;"></div>
+		
+		
+		
+			<div class="fl w823">
+		
+									<div class="n_logo">
+	13390234524
+</div>
+		
+		
+			<!--导航-->
+			<div class="de-nav">
+				<ul class="clear">
+					<li><a href="/list/50-0-0-1.html" target="_blank">论坛首页</a></li>
+					<li><span>&gt;</span></li>
+					<li><a href="/list/50-0-0-1.html" target="_blank">发展论坛</a></li>
+					<li class="fr"><span>值班版主：</span><a href="/space/userlist.do?id=wenyanqiong1987" target="_blank">青云岛</a>
+						
+				</li></ul>
+				<ul class="ulsm clear"><li>论坛声明：本帖由网友上传，只代表网友个人观点，转帖请注明作者及出处。</li>
+				</ul>
+			</div>
+			<!--/导航-->
+
+			<!--正文-->                                               
+			<div class="de-zw mt15">
+				<h1>
+				<!--<span class="pt">普通</span>
+				-->
+				<span>公安部整治机动车不礼让斑马线 还存哪些问题</span></h1>
+				<ul class="de-xx clear">
+					<li><a href="/space/userspace.do?id=wenyanqiong1987" target="_blank"><img src="http://tpic.home.news.cn/userIcon/s/wenyanqiong1987" alt="" style="width:50px;height: 50px;"></a></li>
+					<li><a href="/space/userspace.do?id=wenyanqiong1987" target="_blank">清风传奇</a>
+						
+					</li>
+					
+					<li><span>等级：白银</span></li>
+					<li><span>经验值：4894</span></li>
+					<li><span>积分：  </span></li>
+					<li class="fr pl"><span>2</span></li>
+					<li class="fr ll"><span>2831</span></li>
+					<li class="fr"><span>2018-04-03 09:17:38</span></li>
+				</ul>
+				<div class="de-tai">
+					
+						
+								
+							<div id="message_" style="font-size:14px;"><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">日前，公安部印发《关于进一步加强机动车不礼让斑马线治理工作的指导意见》，要求各地公安交管部门持续深化拓展机动车不礼让斑马线治理工作，建立常态长效治理机制，确保人民群众平安、顺畅出行。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">据了解，根据公安部统一部署，自2017年4月以来，各地大力开展了不礼让斑马线行为的整治行动。整治行动取得了哪些成果？还存在哪些问题？今后如何深化？记者对此进行了采访。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;"><strong style="margin:0px;padding:0px;">2017年全国查处机动车不礼让斑马线交通违法同比增8.4倍</strong></p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">斑马线是行人过街的安全线，机动车礼让斑马线是驾驶人的法定义务。可是长期以来，一些机动车行经斑马线时不减速、不停车，造成人车混杂、道路拥堵，严重的甚至会诱发道路交通事故。2017年4月，一场斑马线上的治理行动在全国铺开。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">记者了解到，一段时间以来，各地狠抓不懈、多措并举。在湖北武汉、湖南长沙，当地在重点路口设置非机动车临时学习点，组织违法行为人参加现场交通安全学习。在山东济南、河南郑州，一些流量大、违法多的路口路段均启用了人脸识别系统，记录交通违法行为并在现场大屏幕滚动曝光违法行为人的信息。为推进综合治理、源头治理，安徽、海南等地公安交管部门会同住建、市政等部门联合开展排查，加强路面养护，增设行人驻足区、安全岛等二次过街设施。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">对此，公安部交管局曾用多个“强化”，梳理归纳整治工作的相关特点，比如强化组织推动、强化现场严管、强化科技应用、强化排查整改、强化部门协同、强化宣传发动。据公安部交管局秩序管理处负责人介绍，2017年全国查处机动车不礼让斑马线交通违法同比增加8.4倍。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;"><strong style="margin:0px;padding:0px;">开展治理以来，36个大城市中有21个城市通勤日高峰拥堵程度下降</strong></p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">一条斑马线，牵动的却是整个城市的交通秩序。“随着经济社会的发展，城市规模持续扩张，城市道路交通高位运行，交通拥堵、出行难、停车难等问题开始从大城市向中小城市蔓延，城市交通秩序亟须改善。”公安部交管局负责人表示，加强斑马线治理，正是城市交通治理的一个重要切入点和突破口。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">事实上，自去年4月开展斑马线治理工作以来，社会上也出现一些不同的声音。比如，有舆论认为，这会造成通行效率低下、加剧交通拥堵。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">“通行效率不能以牺牲行人的生命为代价。在交通出行中，保护行人、非机动车安全顺畅通行是第一位的。”公安部交管局秩序处负责人表示，“实践证明，随着机动车礼让率的不断提升，交通秩序得到持续改善，交通出行更加安全，反而会促进整体或局部路网通行效率的提升。”有关数据测评显示，开展斑马线治理后，36个大城市中有21个城市通勤日高峰拥堵程度下降、高峰平均车速小幅上升。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">此外，针对“是否会增加交通事故风险”的疑虑，公安部交管局秩序处负责人说，现实中确实存在部分机动车因礼让斑马线被后车追尾的情况，但这类事故发生比例远远低于不礼让引发的事故。“这是由于有些斑马线前的预告、提示、警示、标志、标线缺失或者不完善，一些机动车未能提前发现和减速，直到临近斑马线才猛踩刹车、大幅降速。有时候，机动车驾驶人也没有养成礼让意识，甚至开车期间出现分心，这也容易导致追尾。”</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;"><strong style="margin:0px;padding:0px;">在严格执法的基础上，加强科技应用，同步治理行人、非机动车违法行为</strong></p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">如今，公安部进一步部署相关治理工作，着力构建斑马线上的安全文明，努力让广大群众的获得感、安全感更加充实、更有保障、更可持续。根据《意见》，各地公安交管部门要进一步采取多项措施，推进机动车不礼让斑马线的常态化治理。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">斑马线上的安全文明，除了机动车的自觉礼让，还离不开行人、非机动车的自觉维护。“下一步，我们在现场严格执法的基础上，将加强科技应用，同步治理行人、非机动车闯红灯违法行为。”公安部交管局秩序处负责人说，比如试用闯红灯抓拍警示设备，探索试行曝光违法人员部分信息或者通过事后约谈、通报、追查等方式，予以有效查处和震慑。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">此前还有群众反映，一些地方的交通设施和标志标线不完善、不合理，导致过街时间不足、过街等待时间过长等问题。“坚持严格执法与完善设施相结合，也是下一步治理工作的重要原则。”公安部交管局秩序处负责人介绍，各地公安交管部门应对所有路口进行全面排查，确保斑马线应划必划、信号灯应设必设，且符合国家或行业标准。同时，协调住建等部门，在商业区、居民区、学校、医院等交通聚集点附近道路，适当增加过街设施数量，优化行人过街设施。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">针对上述问题，《意见》还对“调整交通信号灯”作出相关部署要求，比如对右转车辆和直行行人、非机动车冲突严重的路口，可采取右转专用信号控制；对行人过街距离较长的信号灯路口，可设置行人二次过街信号灯；对行人流量较少的路段斑马线，可采取行人请求式按钮信号控制。</p><p style="margin:0px 3px 15px;padding:0px;font-family:微软雅黑;font-size:14px;text-indent:30px;">“构建斑马线上的安全文明，归根结底在于人。”公安部交管局有关负责人表示，“驾驶人会有过马路的时候，行人难免也会有开车的经历，希望广大交通参与者将心比心、换位思考，相互礼让，如此我们就会共同拥有更好的交通秩序、更多的交通文明。”</p><p>来源：人民日报</p></div>		
+						
+														<div class="n_logo">
+	13390234524
+</div>
+		
+	
+	<!-- 正文附件 -->
+	
+					<!-- 点赞 -->
+					<div class="de-zan">
+						<a href="javascript:postLike(141566023)"><img src="/static/newedition/img/zan.png" alt="点赞"></a>
+						<p><label id="etx2141566023">0</label></p>
+					</div>
+						<!-- 广告嵌入 -->
+						
+						
+						
+							<table>						
+							<tbody><tr align="left">
+						
+															<div class="n_logo">
+	13380234524
+</div>
+		
+						
+											
+												
+												
+
+												
+												
+											
+						</tr>
+										<!-- 猜你喜欢 -->	
+											
+				
+												
+													<!-- 今日热帖嵌入 -->
+												
+												<tr align="left">
+													<td><br></td>
+												</tr>
+												
+												
+													
+													
+				13380234524133802345241338023452413380234524										
+														
+															
+																
+					1338023452413380234524									
+													
+					13380234529							
+												
+												
+					133802345210							
+												
+												
+											</tbody></table>
+				
+					<!--<iframe frameBorder=0 width=710 height=610 src="http://www.xinhuanet.com/forum/rtlj.htm"></iframe>-->
+					<!-- 分享 收藏 -->
+					
+					<ul class="de-share clear" id="share-content">
+						<li><span>分享到</span></li>
+						<li class="wx"><a href="/showcoder/showc.do?id=141566023&amp;title=公安部整治机动车不礼让斑马线 还存哪些问题&amp;"></a></li>
+						<li class="si"><a href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=649106854',u=z||d.location,p=['&amp;url=',e(u),'?&amp;title=',e(t||d.title),'&amp;source=',e(r),'&amp;sourceUrl=',e(l),'&amp;content=',c||'gb2312','&amp;pic=','&amp;searchPic=false',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=600,height=430,left=',(s.width-600)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',document.title,'','utf-8'));"></a></li>
+						<li class="nn"><a href="javascript:;" onclick="share2()"></a></li>
+						<!--<li class="ml30"><a href="javascript:postMark(141566023)"><span>收藏</span></a></li>-->
+						<!-- <li class="sc"><a href=""></a></li> -->
+					</ul>
+					<ul class="ulsm clear">谢谢您的阅读, 您是本文第<span class="hong12"> <b>2831</b> </span>个阅览者</ul>					
+				</div>
+			</div>
+			<!--/正文-->
+
+		<!-- 设置权限变量 减少循环验证权限-->
+		
+
+
+			<!--网友回复-->
+			<div id="postreply" class="de-hf mt15">
+				<h2>网友回复</h2>
+				<!--翻页-->
+				
+				<!--/翻页-->
+				<!---->
+				
+				<dl>
+					<dt><a href="/space/userspace.do?id=txzl" target="_blank"><img src="http://tpic.home.news.cn/userIcon/s/txzl" alt=""></a></dt>
+					<dd>
+						<ul class="ul1 clear">
+							<li><a id="user_1" href="/space/userspace.do?id=txzl" target="_blank">拷问灵魂</a>
+							</li><li><span id="time_1">2018-04-03 14:53:53发表</span></li>
+							<li class="fr"><span id="count_1">1楼</span></li>
+						</ul>
+						<div id="message11_1"><p></p><p>认真起来，都好办</p><p></p></div>
+						
+	<!-- 回复附件 -->
+	
+
+						<ul class="ul2 clear"> 
+							                              
+							<li class="li1"><a href="/space/userspace.do?id=txzl" target="_blank">只看该作者</a></li>
+							<!-- <li class="li2"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=txzl" target="_blank">发短消息</a></li>
+							<li class="li3"><a href="http://txzl.home.news.cn/" target="_blank">加为好友</a></li> -->
+							<li class="fr"><a data-def="0" class="reply" href="#reply-content"><span onclick="addRevert('拷问灵魂');">回复</span></a></li>
+							
+							<li class="fr"><a data-def="0" class="reply" href="#reply-content"><span onclick="addQuote('1');">引用</span></a></li>
+							
+							<li class="fr"><a href="javascript:postLike(141566597)">赞<label id="etx2141566597"> 0</label></a></li>
+						</ul>
+						<ul class="ul2 clear">谢谢您的阅读, 您是本文第<span class="hong12"> <b>2831</b> </span>个阅览者</ul>
+						<div class="de-tog">
+							<div class="de-wb">
+								<textarea></textarea>
+							</div>
+							<ul class="ul2 clear">
+								<li class="fr qx"><a class="cancel" href="">取 消</a></li>
+								<li class="fr"><a href="">回 复</a></li>
+							</ul>
+						</div>
+						
+					
+						
+					</dd>
+				</dl>
+				
+				<dl>
+					<dt><a href="/space/userspace.do?id=bs180403165809" target="_blank"><img src="http://tpic.home.news.cn/userIcon/s/bs180403165809" alt=""></a></dt>
+					<dd>
+						<ul class="ul1 clear">
+							<li><a id="user_2" href="/space/userspace.do?id=bs180403165809" target="_blank">一叶小舟1804030803</a>
+							</li><li><span id="time_2">2018-04-03 17:02:13发表</span></li>
+							<li class="fr"><span id="count_2">2楼</span></li>
+						</ul>
+						<div id="message11_2"><p></p><p>不仅要整顿机动车，现在大部分机动车驾驶员在礼让行人方面做的都不错，可是行人和非机动车不守规矩的问题还是比较突出的，要充分运用科技手段，把行人和非机动车也纳入监管范围，闯红灯者不论车还是行人都要依法处罚，在法律面前没有弱势群体，人人都要守法。</p><p></p></div>
+						
+	<!-- 回复附件 -->
+	
+
+						<ul class="ul2 clear"> 
+							                              
+							<li class="li1"><a href="/space/userspace.do?id=bs180403165809" target="_blank">只看该作者</a></li>
+							<!-- <li class="li2"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=bs180403165809" target="_blank">发短消息</a></li>
+							<li class="li3"><a href="http://bs180403165809.home.news.cn/" target="_blank">加为好友</a></li> -->
+							<li class="fr"><a data-def="0" class="reply" href="#reply-content"><span onclick="addRevert('一叶小舟1804030803');">回复</span></a></li>
+							
+							<li class="fr"><a data-def="0" class="reply" href="#reply-content"><span onclick="addQuote('2');">引用</span></a></li>
+							
+							<li class="fr"><a href="javascript:postLike(141566939)">赞<label id="etx2141566939"> 0</label></a></li>
+						</ul>
+						<ul class="ul2 clear">谢谢您的阅读, 您是本文第<span class="hong12"> <b>2831</b> </span>个阅览者</ul>
+						<div class="de-tog">
+							<div class="de-wb">
+								<textarea></textarea>
+							</div>
+							<ul class="ul2 clear">
+								<li class="fr qx"><a class="cancel" href="">取 消</a></li>
+								<li class="fr"><a href="">回 复</a></li>
+							</ul>
+						</div>
+						
+					
+						
+					</dd>
+				</dl>
+				
+				<!--/-->
+
+				<!--翻页-->
+				
+				<!--/翻页-->
+			</div>
+			
+			<!--/网友回复-->
+
+<form method="post" action="/newPost.do" name="bbsedit" enctype="multipart/form-data" onsubmit="return checkForm(this);">
+			<!--编辑器-->
+			<input type="hidden" name="imageIds" id="imageIds"> 
+			<div class="de-bjq mt15" id="reply-content">
+				<div class=" edui-default"><div id="edui1" class="edui-editor  edui-default" style="z-index: 999; width: 820px;"><div id="edui1_toolbarbox" class="edui-editor-toolbarbox edui-default"><div id="edui1_toolbarboxouter" class="edui-editor-toolbarboxouter edui-default"><div class="edui-editor-toolbarboxinner edui-default"><div id="edui2" class="edui-toolbar   edui-default" onselectstart="return false;" onmousedown="return $EDITORUI[&quot;edui2&quot;]._onMouseDown(event, this);" style="user-select: none;"><div id="edui3" class="edui-box edui-button edui-for-source edui-default"><div id="edui3_state" onmousedown="$EDITORUI[&quot;edui3&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui3&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui3&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui3&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui3_body" unselectable="on" title="源代码" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui3&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui4" class="edui-box edui-separator  edui-default"></div><div id="edui5" class="edui-box edui-button edui-for-undo edui-default"><div id="edui5_state" onmousedown="$EDITORUI[&quot;edui5&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui5&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui5&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui5&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui5_body" unselectable="on" title="撤销" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui5&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui6" class="edui-box edui-button edui-for-redo edui-default"><div id="edui6_state" onmousedown="$EDITORUI[&quot;edui6&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui6&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui6&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui6&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui6_body" unselectable="on" title="重做" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui6&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui7" class="edui-box edui-separator  edui-default"></div><div id="edui8" class="edui-box edui-button edui-for-bold edui-default"><div id="edui8_state" onmousedown="$EDITORUI[&quot;edui8&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui8&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui8&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui8&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui8_body" unselectable="on" title="加粗" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui8&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui9" class="edui-box edui-button edui-for-italic edui-default"><div id="edui9_state" onmousedown="$EDITORUI[&quot;edui9&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui9&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui9&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui9&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui9_body" unselectable="on" title="斜体" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui9&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui10" class="edui-box edui-button edui-for-underline edui-default"><div id="edui10_state" onmousedown="$EDITORUI[&quot;edui10&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui10&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui10&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui10&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui10_body" unselectable="on" title="下划线" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui10&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui11" class="edui-box edui-separator  edui-default"></div><div id="edui12" class="edui-box edui-splitbutton edui-for-forecolor edui-default edui-colorbutton"><div title="字体颜色" id="edui12_state" onmousedown="$EDITORUI[&quot;edui12&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui12&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui12&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui12&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-splitbutton-body edui-default"><div id="edui12_button_body" class="edui-box edui-button-body edui-default" onclick="$EDITORUI[&quot;edui12&quot;]._onButtonClick(event, this);"><div class="edui-box edui-icon edui-default"></div><div id="edui12_colorlump" class="edui-colorlump"></div></div><div class="edui-box edui-splitborder edui-default"></div><div class="edui-box edui-arrow edui-default" onclick="$EDITORUI[&quot;edui12&quot;]._onArrowClick();"></div></div></div></div><div id="edui15" class="edui-box edui-splitbutton edui-for-backcolor edui-default edui-colorbutton"><div title="背景色" id="edui15_state" onmousedown="$EDITORUI[&quot;edui15&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui15&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui15&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui15&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-splitbutton-body edui-default"><div id="edui15_button_body" class="edui-box edui-button-body edui-default" onclick="$EDITORUI[&quot;edui15&quot;]._onButtonClick(event, this);"><div class="edui-box edui-icon edui-default"></div><div id="edui15_colorlump" class="edui-colorlump"></div></div><div class="edui-box edui-splitborder edui-default"></div><div class="edui-box edui-arrow edui-default" onclick="$EDITORUI[&quot;edui15&quot;]._onArrowClick();"></div></div></div></div><div id="edui18" class="edui-box edui-combox edui-for-fontfamily edui-default"><div title="字体" id="edui18_state" onmousedown="$EDITORUI[&quot;edui18&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui18&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui18&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui18&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-combox-body edui-default"><div id="edui18_button_body" class="edui-box edui-button-body edui-default" onclick="$EDITORUI[&quot;edui18&quot;]._onButtonClick(event, this);">字体</div><div class="edui-box edui-splitborder edui-default"></div><div class="edui-box edui-arrow edui-default" onclick="$EDITORUI[&quot;edui18&quot;]._onArrowClick();"></div></div></div></div><div id="edui31" class="edui-box edui-combox edui-for-fontsize edui-default"><div title="字号" id="edui31_state" onmousedown="$EDITORUI[&quot;edui31&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui31&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui31&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui31&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-combox-body edui-default"><div id="edui31_button_body" class="edui-box edui-button-body edui-default" onclick="$EDITORUI[&quot;edui31&quot;]._onButtonClick(event, this);">字号</div><div class="edui-box edui-splitborder edui-default"></div><div class="edui-box edui-arrow edui-default" onclick="$EDITORUI[&quot;edui31&quot;]._onArrowClick();"></div></div></div></div><div id="edui42" class="edui-box edui-button edui-for-selectall edui-default"><div id="edui42_state" onmousedown="$EDITORUI[&quot;edui42&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui42&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui42&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui42&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui42_body" unselectable="on" title="全选" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui42&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui43" class="edui-box edui-button edui-for-cleardoc edui-default"><div id="edui43_state" onmousedown="$EDITORUI[&quot;edui43&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui43&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui43&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui43&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui43_body" unselectable="on" title="清空文档" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui43&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div></div><div id="edui44" class="edui-toolbar   edui-default" onselectstart="return false;" onmousedown="return $EDITORUI[&quot;edui44&quot;]._onMouseDown(event, this);" style="user-select: none;"><div id="edui51" class="edui-box edui-button edui-for-link edui-default"><div id="edui51_state" onmousedown="$EDITORUI[&quot;edui51&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui51&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui51&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui51&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui51_body" unselectable="on" title="超链接" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui51&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui52" class="edui-box edui-button edui-for-unlink edui-default"><div id="edui52_state" onmousedown="$EDITORUI[&quot;edui52&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui52&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui52&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui52&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui52_body" unselectable="on" title="取消链接" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui52&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui53" class="edui-box edui-separator  edui-default"></div><div id="edui54" class="edui-box edui-button edui-for-imagenone edui-default"><div id="edui54_state" onmousedown="$EDITORUI[&quot;edui54&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui54&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui54&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui54&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui54_body" unselectable="on" title="默认" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui54&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui55" class="edui-box edui-button edui-for-imageleft edui-default"><div id="edui55_state" onmousedown="$EDITORUI[&quot;edui55&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui55&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui55&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui55&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui55_body" unselectable="on" title="左浮动" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui55&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui56" class="edui-box edui-button edui-for-imageright edui-default"><div id="edui56_state" onmousedown="$EDITORUI[&quot;edui56&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui56&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui56&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui56&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui56_body" unselectable="on" title="右浮动" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui56&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui57" class="edui-box edui-button edui-for-imagecenter edui-default"><div id="edui57_state" onmousedown="$EDITORUI[&quot;edui57&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui57&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui57&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui57&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui57_body" unselectable="on" title="居中" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui57&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui58" class="edui-box edui-separator  edui-default"></div><div id="edui63" class="edui-box edui-button edui-for-insertimage edui-default"><div id="edui63_state" onmousedown="$EDITORUI[&quot;edui63&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui63&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui63&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui63&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui63_body" unselectable="on" title="图片" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui63&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div><div class="edui-box edui-label edui-default"></div></div></div></div></div><div id="edui64" class="edui-box edui-splitbutton edui-for-emotion edui-default"><div title="表情" id="edui64_state" onmousedown="$EDITORUI[&quot;edui64&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui64&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui64&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui64&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-splitbutton-body edui-default"><div id="edui64_button_body" class="edui-box edui-button-body edui-default" onclick="$EDITORUI[&quot;edui64&quot;]._onButtonClick(event, this);"><div class="edui-box edui-icon edui-default"></div></div><div class="edui-box edui-splitborder edui-default"></div><div class="edui-box edui-arrow edui-default" onclick="$EDITORUI[&quot;edui64&quot;]._onArrowClick();"></div></div></div></div><div id="edui66" class="edui-box edui-separator  edui-default"></div><div id="edui67" class="edui-box edui-button edui-for-horizontal edui-default"><div id="edui67_state" onmousedown="$EDITORUI[&quot;edui67&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui67&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui67&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui67&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui67_body" unselectable="on" title="分隔线" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui67&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui68" class="edui-box edui-button edui-for-date edui-default"><div id="edui68_state" onmousedown="$EDITORUI[&quot;edui68&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui68&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui68&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui68&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui68_body" unselectable="on" title="日期" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui68&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div><div id="edui69" class="edui-box edui-button edui-for-time edui-default"><div id="edui69_state" onmousedown="$EDITORUI[&quot;edui69&quot;].Stateful_onMouseDown(event, this);" onmouseup="$EDITORUI[&quot;edui69&quot;].Stateful_onMouseUp(event, this);" onmouseover="$EDITORUI[&quot;edui69&quot;].Stateful_onMouseOver(event, this);" onmouseout="$EDITORUI[&quot;edui69&quot;].Stateful_onMouseOut(event, this);" class=" edui-default"><div class="edui-button-wrap edui-default"><div id="edui69_body" unselectable="on" title="时间" class="edui-button-body edui-default" onmousedown="return false;" onclick="return $EDITORUI[&quot;edui69&quot;]._onClick();"><div class="edui-box edui-icon edui-default"></div></div></div></div></div></div></div></div><div id="edui1_toolbarmsg" class="edui-editor-toolbarmsg edui-default" style="display:none;"><div id="edui1_upload_dialog" class="edui-editor-toolbarmsg-upload edui-default" onclick="$EDITORUI[&quot;edui1&quot;].showWordImageDialog();">点击上传</div><div class="edui-editor-toolbarmsg-close edui-default" onclick="$EDITORUI[&quot;edui1&quot;].hideToolbarMsg();">x</div><div id="edui1_toolbarmsg_label" class="edui-editor-toolbarmsg-label edui-default"></div><div style="height:0;overflow:hidden;clear:both;" class=" edui-default"></div></div></div><div id="edui1_iframeholder" class="edui-editor-iframeholder edui-default" style="height: 400px; overflow: hidden;"><iframe id="baidu_editor_0" width="100%" height="100%" scroll="no" frameborder="0"></iframe></div><div id="edui1_bottombar" class="edui-editor-bottomContainer edui-default"><table class=" edui-default"><tbody class=" edui-default"><tr class=" edui-default"><td id="edui1_elementpath" class="edui-editor-bottombar edui-default"></td><td id="edui1_wordcount" class="edui-editor-wordcount edui-default">字数统计</td><td id="edui1_scale" class="edui-editor-scale edui-default" style="display: none;"><div class="edui-editor-icon edui-default"></div></td></tr></tbody></table></div><div id="edui1_scalelayer" class=" edui-default"></div></div></div><textarea id="myeditor" name="content" style="display: none;"></textarea>
+				<script type="text/javascript">	
+					var editor = UE.getEditor('myeditor');
+				</script>
+				
+
+				
+			</div>
+			
+			<!--图片上传-->							
+			<input name="totalAttach" type="hidden" id="totalAttach" value="5">
+			<span style="font-size: 12px;">单张最大不超过1M!</span>
+			<div class="fp-add-imgs">
+				<ul class="de-imgs-cont"></ul>
+				<div class="de-addlli" style="display:block;width:80px;">
+					<input type="file" class="de-addlli-btn" onchange="previewImage(this)" style="display:block;width:100%;height:100%;filter:alpha(opacity=0);opacity:0;" name="picfile">
+				</div>
+			</div>
+			
+			<br>
+			<table width="823" border="0" align="center" cellpadding="0" cellspacing="0" class="hei12" bgcolor="#ECECEC">
+            	<tbody><tr><td valign="middle">
+				<!-- 
+					<span class="hei12">用户名: <input type="text" name="userid" size="20" maxlength="20" style="height:20"/> 
+						密码:<input type="password" name="password" size="20" maxlength="20" style="height:20"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="http://my.home.news.cn/profile/passport.do" target="_blank"><font color="#FF0000">注册新用户</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="http://login.home.news.cn/getPwd.jsp" target="_blank"><font color="#FF0000">找回密码</font></a></span>
+				 -->
+				</td></tr>
+			</tbody></table>
+			
+<!-- 用户详细信息 -->
+
+	    
+<!--		<input name="reset"  type="button" class="de-publish "  style="margin-left: 20px;" value="清除" onclick="clearCon();return(false)"/>-->
+			<div class="pubBtn"><input class="inputsub" name="Submit" type="submit" value="发布" width="73"></div>
+				
+			<input type="hidden" name="bid" value="50">
+			<input type="hidden" name="parentid" value="141566023">
+			<input type="hidden" name="deepflag" value="0">
+			<input type="hidden" name="arttype" value="0">  
+
+</form>
+
+	
+
+		</div>
+		<!--/内容右边部分-->
+		<!--/主要内容-->
+	<!--<div class="fr w272">
+	      <iframe id="yl1" name="yl1" marginwidth="0" marginheight="0" src="http://www.xinhuanet.com/forum/sqgj/fzltqz7/index.htm" 
+					frameborder="0" width="272" height="2540" scrolling="no" ></iframe> 
+                                                                  
+	</div>  -->
+	
+		<div class="fr w272">
+	    	<iframe id="yl1" name="yl1" marginwidth="0" marginheight="0" src="http://www.xinhuanet.com/forum/sqgj/fzltqz7/index.htm" frameborder="0" width="272" height="2540" scrolling="no"></iframe> 
+                                                                  
+		</div>
+	
+	</div>

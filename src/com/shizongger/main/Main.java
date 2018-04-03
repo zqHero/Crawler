@@ -34,6 +34,8 @@ public class Main {
 	                    .timeout(3000)
 	                    .get();
 
+	            
+	            
 	            //匹配正则表达式：
 	            Pattern pattern = Pattern.compile("^(0\\d{2}-\\d{8}(-\\d{1,4})?)|(0\\d{3}-\\d{7,8}(-\\d{1,4})?)$");
 	            Matcher matcher = pattern.matcher(doc.toString());
