@@ -1,6 +1,7 @@
 package com.shizongger.main;
 
 import java.io.Console;
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -16,34 +17,33 @@ import com.shizongger.domain.MyIp;
 
 
 /***
- *  Ò»¸ö  ¿ÉÒÔÅÀ  ÍøÒ³Î¢ĞÅ Î¢ĞÅÊı¾İµÄĞ¡³ÌĞò
+ *  ä¸€ä¸ª  å¯ä»¥çˆ¬  ç½‘é¡µå¾®ä¿¡ å¾®ä¿¡æ•°æ®çš„å°ç¨‹åº
  * author:zhaoq
  * github:https://github.com/zqHero
  * csdn:http://blog.csdn.net/u013233097
- * 2018Äê3ÔÂ26ÈÕ
+ * 2018å¹´3æœˆ26æ—¥
  */
 public class Main {
 	private static Logger logger = Logger.getLogger(Main.class);
 	
 	public static void main(String[] args) {
 		 try {
-	            //1.Ïòip´úÀíµØÖ··¢ÆğgetÇëÇó£¬ÄÃµ½´úÀíµÄip
-	            Document doc = Jsoup.connect("http://guba.eastmoney.com/")
+	            //1.å‘ipä»£ç†åœ°å€å‘èµ·getè¯·æ±‚ï¼Œæ‹¿åˆ°ä»£ç†çš„ip
+	            Document doc = Jsoup.connect("https://github.com/zqHero/Crawler/blob/master/htmlDemo.txt")
 	                    .userAgent("Mozilla")
 	                    .cookie("auth", "token")
 	                    .timeout(3000)
 	                    .get();
 
 	            
-	            
-	            //Æ¥ÅäÕıÔò±í´ïÊ½£º
-	            Pattern pattern = Pattern.compile("^(0\\d{2}-\\d{8}(-\\d{1,4})?)|(0\\d{3}-\\d{7,8}(-\\d{1,4})?)$");
+	            //åŒ¹é…æ­£åˆ™è¡¨è¾¾å¼ï¼š
+	            Pattern pattern = Pattern.compile("\\d{11}");
 	            Matcher matcher = pattern.matcher(doc.toString());
 
 	            ArrayList<String> ips = new ArrayList<String>();
 	           
 	            if (!matcher.find()) {
-	            	 System.out.println("Î´²éÑ¯µ½Êı¾İ");
+	            	 System.out.println("æœªæŸ¥è¯¢åˆ°æ•°æ®");
 				}else{
 					 while (matcher.find()) {
 			                System.out.println(matcher.group());
@@ -51,7 +51,7 @@ public class Main {
 				}
 	            
 	        } catch (IOException e) {
-	        	System.out.println("-======·¢ÉúÒì³£====" + e.toString() );
+	        	System.out.println("-======å‘ç”Ÿå¼‚å¸¸====" + e.toString() );
 	        }
 	}
 
