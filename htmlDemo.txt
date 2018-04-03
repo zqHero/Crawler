@@ -1,3 +1,7 @@
+
+//示例文件：
+
+
 <div class="wrap clear mt30">
 		<!--内容左边部分-->
 		
@@ -5,10 +9,6 @@
 		<!--内容右边部分-->
 		
 			<!--论坛导航-->
-		
-
-
-
 
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <title>左侧导航栏</title>
